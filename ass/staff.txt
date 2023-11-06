@@ -1,0 +1,5 @@
+Celine:celine123@gmail.com:celine123@:2003:0124521233:F:Pahang:2021:Cashier:Night:2000.0
+Ng Pheng Loong:hjhj123@gmail.com:35683568:2001:0117893139:M:Pahang:2019:Cashier:Day:1500.0
+Holll:holll123@gmail.com:hollllll:1996:0132655523:F:Penang:2016:Cashier:Day:1500.0
+Jasmine:jasmine123@gmail.com:jasmine123:2003:0125444563:F::2023:Cashier:Night:2000.0
+Audrey:audrey123@gmail.com:audrey123:2003:01245665633:F:Perak:2023:Cashier:Day:1500.0

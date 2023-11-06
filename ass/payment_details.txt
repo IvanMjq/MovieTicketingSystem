@@ -1,0 +1,349 @@
+Payment ID: 1
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Paid: RM12.00
+
+Payment ID: 2
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Paid: RM60.00
+
+Payment ID: 3
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Paid: RM12.00
+
+Payment ID: 4
+Username: Summer
+Payment Method: QR Payment
+Total Paid: RM20.00
+
+Payment ID: 5
+Username: null
+Payment Method: QR Payment
+Total Paid: RM36.00
+
+Payment ID: 6
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Paid: RM0.00
+
+Payment ID: 7
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Paid: RM2500.00
+
+Payment ID: 8
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Paid: RM56.00
+
+Payment ID: 9
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Paid: RM43.00
+
+Payment ID: 10
+Username: Summer
+Payment Method: Cash
+Total Paid: RM60.00
+
+Payment ID: 11
+Username: Summer
+Payment Method: Cash
+Total Paid: RM15.00
+
+Payment ID: 12
+Username: Summer
+Payment Method: Cash
+Total Paid: RM15.00
+
+Payment ID: 13
+Username: Summer
+Payment Method: Cash
+Total Paid: RM0.00
+
+Payment ID: 14
+Username: Summer
+Payment Method: Cash
+Total Paid: RM12.00
+
+Payment ID: 15
+Username: Summer
+Payment Method: Cash
+Total Amount: RM12.00
+
+Payment ID: 15
+Username: Summer
+Payment Method: Cash
+Total Amount: RM2500.00
+
+Payment ID: 16
+Username: Summer
+Payment Method: Cash
+Total Amount: RM0.00
+
+Payment ID: 18
+Username: Summer
+Payment Method: Cash
+Total Amount: RM60.00
+
+Payment ID: 19
+Username: Melinda
+Payment Method: Debit Card/Credit Card
+Total Amount: RM42.00
+
+Payment ID: 20
+Username: Melinda
+Payment Method: Debit Card/Credit Card
+Total Amount: RM42.00
+
+Payment ID: 20
+Username: Melinda
+Payment Method: Debit Card/Credit Card
+Total Amount: RM42.00
+
+Payment ID: 21
+Username: Melinda
+Payment Method: Cash
+Total Amount: RM8.40
+
+Payment ID: 22
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM60.00
+
+Payment ID: 23
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM60.00
+
+Payment ID: 23
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM12.00
+
+Payment ID: 24
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM12.00
+
+Payment ID: 25
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM12.00
+
+Payment ID: 26
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM12.00
+
+Payment ID: 27
+Username: Summer
+Payment Method: Cash
+Total Amount: RM56.00
+
+Payment ID: 28
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM60.00
+
+Payment ID: 29
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM75.00
+
+Payment ID: 30
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM12.00
+
+Payment ID: 31
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM13.00
+
+Payment ID: 32
+Username: Summer
+Payment Method: Cash
+Total Amount: RM120.00
+
+Payment ID: 33
+Username: Melinda
+Payment Method: Cash
+Total Amount: RM42.00
+
+Payment ID: 34
+Username: Melinda
+Payment Method: Cash
+Total Amount: RM42.00
+
+Payment ID: 35
+Username: Melinda
+Payment Method: Cash
+Total Amount: RM42.00
+
+Payment ID: 36
+Username: Summer
+Payment Method: Cash
+Total Amount: RM60.00
+
+Payment ID: 37
+Username: Melinda
+Payment Method: Cash
+Total Amount: RM21.00
+
+Payment ID: 38
+Username: Melinda
+Payment Method: Cash
+Total Amount: RM42.00
+
+Payment ID: 39
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM60.00
+
+Payment ID: 40
+Username: Melinda
+Payment Method: Debit Card/Credit Card
+Total Amount: RM42.00
+
+Payment ID: 4
+Username: Melinda
+Payment Method: QR Payment
+Total Amount: RM42.00
+
+Payment ID: 42
+Username: Melinda
+Payment Method: QR Payment
+Total Amount: RM42.00
+
+Payment ID: 43
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM60.00
+
+Payment ID: 44
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM60.00
+
+Payment ID: 45
+Username: Melinda
+Payment Method: QR Payment
+Total Amount: RM42.00
+
+Payment ID: 46
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM80.00
+
+Payment ID: 47
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM120.00
+
+Payment ID: 48
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM120.00
+
+Payment ID: 49
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM120.00
+
+Payment ID: 50
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM20.00
+
+Payment ID: 51
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM40.00
+
+Payment ID: 52
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM60.00
+
+Payment ID: 53
+Username: Melinda
+Payment Method: Debit Card/Credit Card
+Total Amount: RM42.00
+
+Payment ID: 54
+Username: Melinda
+Payment Method: QR Payment
+Total Amount: RM42.00
+
+Payment ID: 55
+Username: Melinda
+Payment Method: QR Payment
+Total Amount: RM42.00
+
+Payment ID: 56
+Username: Summer
+Payment Method: QR Payment
+Total Amount: RM40.00
+
+Payment ID: 57
+Username: Summer
+Payment Method: Cash
+Total Amount: RM40.00
+
+Payment ID: 58
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM3000.00
+
+Payment ID: 59
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM5000.00
+
+Payment ID: 60
+Username: Melinda
+Payment Method: QR Payment
+Total Amount: RM42.00
+
+Payment ID: 61
+Username: Melinda
+Payment Method: Cash
+Total Amount: RM42.00
+
+Payment ID: 62
+Username: Melinda
+Payment Method: Cash
+Total Amount: RM10.50
+
+Payment ID: 62
+Username: Melinda
+Payment Method: 
+Total Amount: RM10.50
+
+Payment ID: 63
+Username: Summer
+Payment Method: Cash
+Total Amount: RM12.00
+
+Payment ID: 64
+Username: Summer
+Payment Method: Cash
+Total Amount: RM75.00
+
+Payment ID: 65
+Username: Summer
+Payment Method: Cash
+Total Amount: RM2500.00
+
+Payment ID: 66
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM100.00
+
+Payment ID: 67
+Username: Summer
+Payment Method: Debit Card/Credit Card
+Total Amount: RM5000.00

@@ -1,0 +1,5 @@
+F1:Movie Special:A medium popcorn and a soda.:12.00
+F2:Chicken Lover's Choice:Crispy and juicy popcorn and few dipping sauce.:18.00
+F3:Healthy-Choice Combo:A combo with a large salad, a bottle of mineral and a fruits bowls.:25.00
+F4:Family Fun-Feast:A jumbo popcorn, 4 large sodas and a nachos platter with cheese.:42.00
+F5:Pizza's Dream:Three slice of cheese pizza and a cold soda.:23.00
